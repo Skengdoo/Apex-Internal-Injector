@@ -25,5 +25,4 @@ A Undetected Internal Injector for EAC + Battle Eye allowing you to inject your 
 
 there will be more updates to this 
 
-
- ## working as of 15/02/2022
+## join discord https://discord.gg/ZxKe3nH7K3
