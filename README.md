@@ -1,7 +1,7 @@
 # Apex-Internal-Injector
 A Undetected Internal Injector for EAC + Battle Eye allowing you to inject your cheat into apex with no issues !
 
-# To Purchase Full Source add my discord nulled#9524
+# To Purchase Full Source add my discord skengdoo#9524
 - source completly private and contains injector + driver and will be completly undetected
 - payments -> bitcoin | paypal | cashapp 
 - offer reasonable price for the source 
@@ -25,4 +25,4 @@ A Undetected Internal Injector for EAC + Battle Eye allowing you to inject your 
 
 there will be more updates to this 
 
-## add discord nulled#9524
+## add discord skengdoo#9524
