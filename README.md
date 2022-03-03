@@ -5,7 +5,7 @@ A Undetected Internal Injector for EAC + Battle Eye allowing you to inject your 
 
 # leave a star 
 
-# To Purchase Full Source add my discord skengdoo#9524
+# To Purchase Full Source add my discord skeng#9524
 - source completly private and contains injector + driver and will be completly undetected
 - payments -> bitcoin | paypal | cashapp 
 - offer reasonable price for the source 
@@ -29,4 +29,4 @@ A Undetected Internal Injector for EAC + Battle Eye allowing you to inject your 
 
 there will be more updates to this 
 
-## add discord skengdoo#9524
+## add discord skeng#9524
